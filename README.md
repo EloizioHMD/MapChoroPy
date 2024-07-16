@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# GeoInt 🌎 Map Choropleth
 
-A simple Streamlit app template for you to modify!
+This is a Geographic Intelligence (GeoInt) solution developed in Python to create a simple and explorable visualization of a chloropleth map.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
